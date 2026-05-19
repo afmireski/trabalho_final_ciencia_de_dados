@@ -1,0 +1,7 @@
+[project]
+name = "trabalho-final-ciencia-de-dados"
+version = "0.1.0"
+description = "Repositório do trabalho final da disciplina de ciência de dados"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = ["pandas"]
