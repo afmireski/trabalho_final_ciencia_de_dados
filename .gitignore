@@ -217,4 +217,7 @@ __marimo__/
 .streamlit/secrets.toml
 
 enunciados/
-data/
+data/*
+!data/datasets/
+data/datasets/*
+!data/datasets/dataset_final.parquet
