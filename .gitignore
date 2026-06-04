@@ -220,4 +220,10 @@ enunciados/
 data/*
 !data/datasets/
 data/datasets/*
+!data/datasets/inmet_aggregated/
+data/datasets/inmet_aggregated/*
 !data/datasets/dataset_final.parquet
+!data/datasets/inmet_aggregated/estacoes_finais.csv
+!data/datasets/inmet_aggregated/estacoes.csv
+!data/datasets/inmet_aggregated/inmet_historico.parquet
+!data/datasets/inmet_aggregated/sinistro_estacao_mais_proxima.csv
