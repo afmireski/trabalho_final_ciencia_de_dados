@@ -37,10 +37,10 @@
 
 ### Etapa 4 - ML
 
-- [x] Baseline
+- [x] Baseline com tuning
     - [x] Temos o que melhorar, recall
     - [x] Mover para depois do pré-processamento
     - [x] Escolher +1 algoritmo, provavelmente vai ser SVM se não demorar demais.
-- [ ] Com tuning
+- [ ] Validação cruzada
 - [ ] Com tuning e validação cruzada
 
