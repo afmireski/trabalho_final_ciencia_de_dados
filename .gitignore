@@ -218,6 +218,7 @@ __marimo__/
 
 enunciados/
 data/*
+!data/results/
 !data/datasets/
 data/datasets/*
 !data/datasets/inmet_aggregated/
