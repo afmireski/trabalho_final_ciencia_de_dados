@@ -219,6 +219,7 @@ __marimo__/
 enunciados/
 data/*
 !data/results/
+!data/results/classification_summary.csv
 !data/datasets/
 data/datasets/*
 !data/datasets/inmet_aggregated/
