@@ -30,8 +30,24 @@
 - [x] Exportação/Importação do dataset final usando parquet
     - [x] Posso exportar as estações e históricos em parquet também.
 - [ ] Consultas SQL
+    - [ ] Top 10 acidentes com mais mortos (Tabela)
+    - [ ] Top 10 acidentes com mais feridos (Tabela)
+    - [ ] Quantidade total de acidentes por dia da semana com a média (Histograma)
+    - [ ] Hora do dia (Boxplot)
+        - [ ] Distribuição de acidentes
+        - [ ] Distribuição de mortes
+        - [ ] Distribuição de feridos
+    - [ ] Série temporal por ano
+        - [ ] Nº de acidentes
+        - [ ] Nº de mortes
+        - [ ] Nº de feridos
+    - [ ] Série Temporal de média móvel semanal estadual
+        - [ ] Nº de acidentes
+        - [ ] Nº de mortes
+        - [ ] Nº de feridos
 - [ ] Análise univariadas
 - [ ] Análise bivariadas
+- [ ] Análise multivariada
 - [x] Visualizações interpretadas
 - [x] Testes de Hipótese
 
